@@ -74,7 +74,7 @@ AriPluPlu/Readme.md
 
 ## Gráfica de Contribuciones
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AriPluPlu&theme=tokyonight" width="100%" alt="Metricas" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AriPluPlu&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF" width="100%" alt="Activity Graph" />
 </div>
 
 ---
