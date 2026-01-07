@@ -47,9 +47,10 @@ AriPluPlu/Readme.md
 
 ### Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AriPluPlu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AriPluPlu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriPluPlu&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages" />
 </p>
-
 ---
 
 ## Lenguajes Más Usados
@@ -73,9 +74,9 @@ AriPluPlu/Readme.md
 ---
 
 ## Gráfica de Contribuciones
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AriPluPlu&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF" width="100%" alt="Activity Graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AriPluPlu&theme=tokyonight&hide_border=true" alt="Racha" />
+</p>
 
 ---
 
