@@ -47,49 +47,10 @@ AriPluPlu/Readme.md
 
 ### Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AriPluPlu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AriPluPlu&theme=tokyonight" alt="Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriPluPlu&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AriPluPlu&theme=tokyonight" alt="Lenguajes" />
 </p>
----
-
-## Lenguajes Más Usados
-
-<div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AriPluPlu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF&langs_count=8)
-
-</div>
-
----
-
-## Trofeos de GitHub
-
-<div align="center">
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AriPluPlu&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
----
-
-## Gráfica de Contribuciones
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AriPluPlu&theme=tokyonight&hide_border=true" alt="Racha" />
-</p>
-
----
-
-## Proyectos Destacados
-
-<div align="center">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AriPluPlu&repo=nombre-repo-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF)](https://github.com/AriPluPlu)
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AriPluPlu&repo=nombre-repo-2&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF)](https://github.com/AriPluPlu)
-
-</div>
-
 ---
 
 ## Conecta Conmigo
