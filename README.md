@@ -46,11 +46,11 @@ AriPluPlu/Readme.md
 ---
 
 ### Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AriPluPlu&theme=tokyonight" alt="Stats" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AriPluPlu&show_icons=true&theme=radical" height="180" alt="stats graph" />
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AriPluPlu&theme=tokyonight" alt="Lenguajes" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AriPluPlu&theme=radical" height="180" alt="streak graph" />
+</div>
 ---
 
 ## Conecta Conmigo
