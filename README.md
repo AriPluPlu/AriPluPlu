@@ -48,8 +48,7 @@ AriPluPlu/Readme.md
 ### Estadísticas de GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AriPluPlu&show_icons=true&theme=radical" height="180" alt="stats graph" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AriPluPlu&theme=radical" height="180" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriPluPlu&layout=compact&theme=radical" height="180" alt="languages graph" />
 </div>
 ---
 
